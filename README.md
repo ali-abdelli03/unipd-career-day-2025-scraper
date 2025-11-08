@@ -41,3 +41,7 @@ The script will print:
 - Company name
 - Which section matched (Profile / Opportunities / Requirements)
 - Relevant text context
+
+## License
+
+MIT
